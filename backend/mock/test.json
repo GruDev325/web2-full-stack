@@ -1,0 +1,19 @@
+{
+	"items": [
+		{
+				"URI": "https://i.seadn.io/gcs/files/1e99491c045e90f0cc120f53e7981f30.jpg",
+				"name": "Box 1",
+				"price": "0.1 ETH"
+		},
+		{
+            "URI": "https://i.seadn.io/gcs/files/a9c056bc71999fd7f558a780505552d4.jpg",
+            "name": "Box 2",
+            "price": "0.2 ETH"
+		},
+		{
+            "URI": "https://i.seadn.io/gcs/files/eec2a33438a3292f9d534a76a6393381.jpg",
+            "name": "Box 3",
+            "price": "0.4 ETH"
+		}
+	]
+}
